@@ -1,3 +1,10 @@
 const a = {
-  foo: "hi",
+  foo: 3,
+  boo: 3,
 };
+
+console.log(a.foo.toString);
+
+console.log();
+
+
